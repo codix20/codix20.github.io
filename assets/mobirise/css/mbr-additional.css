@@ -11,11 +11,11 @@ body {
 }
 .display-1 {
   font-family: 'Abril Fatface', display;
-  font-size: 4.1rem;
+  font-size: 4.5rem;
   font-display: swap;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 6.56rem;
+  font-size: 7.2rem;
 }
 .display-2 {
   font-family: 'Abril Fatface', display;
@@ -56,9 +56,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.28rem;
-    font-size: calc( 2.085rem + (4.1 - 2.085) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.085rem + (4.1 - 2.085) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.6rem;
+    font-size: calc( 2.225rem + (4.5 - 2.225) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.225rem + (4.5 - 2.225) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.4rem;
@@ -1858,11 +1858,11 @@ section.lazy-placeholder:after {
 }
 .cid-rMYvGpS4i0 {
   padding-top: 120px;
-  padding-bottom: 120px;
+  padding-bottom: 105px;
   background-image: url("../../../assets/images/mbr.jpg");
 }
 .cid-rMYvGpS4i0 H2 {
-  color: #ff0606;
+  color: #b70e0e;
 }
 .cid-rN4EKZCEiO {
   padding-top: 45px;
@@ -2007,7 +2007,7 @@ section.lazy-placeholder:after {
   color: #f7ed4a;
 }
 .cid-rN3JzToa63 .b-descr {
-  color: #da1010;
+  color: #f7ed4a;
 }
 .cid-rN3JzToa63 H2 {
   color: #ffffff;
@@ -2021,7 +2021,7 @@ section.lazy-placeholder:after {
   background-image: url("../../../assets/images/mbr-6.png");
 }
 .cid-rN0gCbvrNB H2 {
-  color: #ffffff;
+  color: #f40101;
 }
 .cid-rN0gGedsql {
   padding-top: 30px;
@@ -2064,7 +2064,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rN0gGedsql .b-descr {
-  color: #da1010;
+  color: #f7ed4a;
 }
 .cid-rN0gGedsql .mbr-section-subtitle {
   color: #f7ed4a;
